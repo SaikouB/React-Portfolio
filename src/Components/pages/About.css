@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 10px;
+    border-radius: 30%;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px;
+}
+
+p {
+    margin: 250px;
+    text-align: center;
+    text-shadow: 15px 15px 35px;
+    font-size:larger;
+}
