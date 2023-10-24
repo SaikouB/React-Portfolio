@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer style={{ display: "flex", justifyContent: "center", margin: '10px' }}>
+    <footer className='bg-secondary' style={{ display: "flex", justifyContent: "center", margin: '10px' }}>
       {/* <span style={{ marginRight: '50px'}}>&copy; TechFinite. All Rights Reserved</span> */}
       <a href="https://github.com/SaikouB">
         <img
@@ -16,6 +16,7 @@ export default function Footer() {
           alt="LinkedIn"
         />
       </a>
+      <div> &copy; TechFinite. All Rights Reserved</div>
     </footer>
   );
 }
