@@ -1,12 +1,13 @@
 export default function Contact() {
   return (
     <form
-      className="card bg-info"
+      className="card shadow-lg p-3 mb-5 bg-body-tertiary"
       style={{
         width: "50%",
-        display: "flex",
         marginTop: "10%",
         marginLeft: "25%",
+        paddingRight: '25px',
+        paddingLeft: '25px'
       }}
     >
       <h1>Contact Me</h1>

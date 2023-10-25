@@ -1,8 +1,4 @@
-/* eslint-disable react/prop-types */
-/* eslint-disable no-unused-vars */
-// import React from "react";
-import './NavTabs.css';
-
+// eslint-disable-next-line react/prop-types
 const NavTabs = ({ currentPage, handlePageSwitch }) => {
   return (
     <ul className="nav nav-tabs bg-white">

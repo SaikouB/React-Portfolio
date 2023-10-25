@@ -1,0 +1,29 @@
+@media screen 
+/* and (min-width: 320px)  */
+and (max-width: 480px) {
+    img { 
+        min-width: 100%;
+    }
+    footer {
+        width: auto;
+    }
+    .aboutme {
+        min-width: 100%;
+        margin-left: -50%;
+    }
+};
+
+@media screen 
+  and (min-device-width: 721) 
+  and (max-device-width: 1600px) {
+    .resume {
+         min-width: 0%;
+     }
+     footer {
+         width: auto;
+     }
+     .aboutme {
+         min-width: 100%;
+         margin-left: -20%;
+     }
+  }

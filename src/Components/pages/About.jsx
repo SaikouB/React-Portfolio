@@ -2,10 +2,12 @@
 /* eslint-disable no-unused-vars */
 import "./About.css";
 import photo from "../../assets/images/Saikou.jpeg";
+import mediaQuery from '../../Components/mediaQuery.css'
+
 
 export default function About() {
   return (
-    <div>
+    <div className='aboutme'>
       <img className="image" style={{width: '100px'}} src= {photo} alt="Saikou"/>
       <h1>About Me</h1>
         <p>
