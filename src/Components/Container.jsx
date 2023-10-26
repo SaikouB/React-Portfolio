@@ -8,6 +8,8 @@ import Footer from "./pages/Footer";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 import Header from "./pages/Header"
+// eslint-disable-next-line no-unused-vars
+import Style from './pages/Style.css'
 
 export default function Container() {
   const [currentPage, setCurrentPage] = useState("About");
@@ -33,7 +35,7 @@ export default function Container() {
     <div>
       <Header />
       <NavTabs currentPage={currentPage} handlePageSwitch={handlePageSwitch} />
-      <main className="mx-1">{renderPage()}</main>
+      <main className="">{renderPage()}</main>
       <Footer />
     </div>
   );

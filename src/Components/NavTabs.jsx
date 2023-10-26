@@ -1,12 +1,12 @@
 // eslint-disable-next-line react/prop-types
 const NavTabs = ({ currentPage, handlePageSwitch }) => {
   return (
-    <ul className="nav nav-tabs bg-white">
+    <ul className="nav nav-tabs">
       <li className="nav-item">
         <a
 					href="#about"
 					onClick={() => handlePageSwitch('About')}
-					className={currentPage === 'About' ? 'nav-link active bg-secondary' : 'nav-link'}
+					className={currentPage === 'About' ? 'nav-link active bg-success' : 'nav-link'}
 				>
         About
         </a>

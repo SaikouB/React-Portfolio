@@ -1,0 +1,41 @@
+body {
+    font-family: 'Chalkduster', sans-serif;
+  }
+  main {
+    background-color: #f6fff8;
+  }
+.nav {
+    background-color: #f6fff8;
+}
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  span{
+    font-family: 'Chalkduster', sans-serif;
+  }
+
+  .github:hover {
+    opacity: 1;
+    transition: 0.9s;
+  }
+  .chrome:hover {
+    opacity: 1;
+    transition: 0.9s;
+  }
+
+  .github {
+    opacity: 0.6;
+  }
+
+  .chrome {
+    opacity: 0.5;
+}
+
+footer {
+    color: aliceblue;
+}
