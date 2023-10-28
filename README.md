@@ -1,8 +1,42 @@
-# React + Vite
+# Look At Me Now
+  ![Static Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+  
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#testing)
+  - [License](#license)
+  - [Questions](#questions)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+
+
+## Installation
+
+ok
+
+## Usage
+
+okok
+
+## Contributing
+
+ok
+
+## Testing
+
+ok
+
+## License
+
+![Static Badge](https://img.shields.io/badge/license-MIT-blue.svg) This project is licensed under https://opensource.org/licenses/MIT 
+
+
+## Questions
+Feel free to check out more of my work on GitHub (https://github.com/SaikouB),
+or to contact me with any questions about this project, send me an email at bsaikou1990@gmail.com
